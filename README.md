@@ -15,3 +15,23 @@
 |  Bloom 	|   DDR4	|   NVMe	|  Ryzen 9 3900X Ryzen 9 3950X Ryzen 9 5950X 	|  NA, EU, AS 	|   ✖	|   ✔	|   Pterodactyl	| 2.5$/m 2.25$/m 3$/m  	| No  	|
 |  FalixNodes 	|  ? 	|   ?	|   Ryzen 9 5950X	|   EU	|  ✖ 	|   ✔	|  Pterodactyl 	| 1.5$/m  	|   Yes (slots)	|
 |   G-portal	|   ?	|  ? 	|   ?	|   EU, NA, AS, OC, SA, AF	|   ✖	|  ✔ 	| ? 	| 1.9$/m  	|  No 	|
+|  Hostinger 	|  ? 	|   SSD	|   Intel Xeon	|   NA, EU, AS, SA	|  ✖ 	|  ? 	|  ?	|  11.75$/m 	| Yes (slots) 	|
+|  PapuHost 	|  DDR3 DDR4 	|   HDD NVMe	|   Intel Xeon E5-1620v2 i7-7700K	|  NA 	|   ✖	|  ✔ 	|  Pterodactyl	|   4$/m 4$/m	|  Yes (slots) No	|
+|  HolyHosting 	|  DDR3 DDR4 	|   SSD NVMe	|  Intel Xeon E5-4650v1 AMD Ryzen 7 3800X 	|  NA, EU, SA 	|  ✖ 	|   ?	| ? 	|   	1.2$/m 3.3$/m |  No	|
+|  PloxHost 	|  DDR3 DDR4 	|   SSD NVMe	|  Dual E5-2690 Ryzen 7 3800X 	|  NA, EU 	| ✖  	|   ✔	| Pterodactyl 	|  1.5$/m 4$/m 	| No 	|
+|  RetlyHosting 	|   DDR4	|   ?	| i9-9900K  	|  EU 	|  ✖ 	|   ✔	| Pterodactyl 	|  1.5$/m 	| No 	|
+|   Kiaura	|  ? 	|   NVMe	|  Ryzen 5 3600X 	|  EU 	| ✔  	|   ?	| Multicraft 	|  2$/m 	|  Yes (slots)	|
+|   OMG Serv	| ?  	|   SSD	|   Intel Xeon E5-2670	|   EU, NA	|  ✖ 	|   ✔	|  Custom	|  1.5$/m 	| Yes (slots) 	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
