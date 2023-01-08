@@ -32,6 +32,61 @@
 |  Sparked 	| DDR4  | SSD NVMe NVMe	|  E5-2697v3 Ryzen 5 5600X Ryzen 9 5900X 	|   NA, EU, OC, AS	|  ✖ 	|   ✔	|   Pterodactyl	| 1$/m 2$/m 4$/m 	|   No	|
 |  HeavyNode 	|  DDR4 	| SSD SSD NVMe  	|  i7-6700K i7-7700K Ryzen 9 5900X 	|   NA, EU, OC, AS	|   ✖	|   ✔	| Pterodactyl 	|  1$/m 2.4$/m 2.75$/m 	|  No	|
 |  SkyNode 	| ?  	|   NVMe	|  ? 	|  NA, EU, AS, OC 	| ✖  	|  ? 	|  Pterodactyl	| 2.5$/m  	| No 	|
+|   Vultam	|   DDR4	|   SSD NVMe NVMe	|  i7-6700K Ryzen 7 3700X Ryzen 9 5900X 	|   NA, EU	|  ✖ 	|   ✔	|  Pterodactyl	|  1.75$/m 2.4$/m 3.5$/m 	| No 	|
+|   GalaxyHosting	|   ?	|  NVMe 	|   ?	|  NA, EU 	|  ✖ 	|   ?	|  Pterodactyl	| 2$/m  	| No 	|
+|   Ouiheberg	|  DDR4 	|   SSD	|  Intel Xeon E5 	|   ?	|   ✔	|   ✔	| ? 	|  0.6$/m 	| No 	|
+|  TomaHost 	|   ?	|   ?	|   ?	|  ? 	|  ✖ 	|  ? 	| ? 	| 8.7$/m  	| Yes (slots) 	|
+| Elixir Node  	|   DDR3  DDR4	|  SSD NVMe NVMe 	|   Xeon Ryzen 5 3600X Ryzen 9 3900X	|   NA, EU	|   ✖	|    ✔	| Pterodactyl 	|  0.85$/m 1.75$/m 3.5$/m 	| No 	|
+|  RedFoxCloud 	|   DDR4	|  NVMe 	|  Ryzen 9 5950X 	|   EU	|  ✖ 	| ✔  	| ? 	| 30$/m  	|  No	|
+|   RAM Shard	|   ?	|   NVMe	| ? 	|  NA, EU, AS, OC 	|   ✖	| ✔  	| Multicraft 	|   4$/m	| No 	|
+|  Exaroton 	|   DDR4	|  SSD 	|  AMD Epyc 7F72 	|   ?	| ✖  	|  ? 	| Custom 	|   7.2$/m	|  No	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
