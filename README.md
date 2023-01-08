@@ -25,13 +25,13 @@
 |  PebbleHost	|   DDR4	|  SSD NVMe 	|   Intel Xeon E5-1630v3 Ryzen  7 5800X	|   EU, NA, OC	|   ✖	|   ✔	|  Custom	|   	1$/m 3.4$/m |  No	|
 |  ScalaHosting 	|  ? 	|   NVMe	|   ?	|  NA, AS, EU, OC 	|   ✔	|  ✔ 	| sPanel 	|   	15.5$/m | No 	|
 |  GGServers 	|   DDR4	|   SSD NVMe	| 4 GHz  	|   NA, EU, AS, OC	|   ✖	| ✖  ✔	| Multicraft 	| 3$/m 6$/m  	| Yes (slots) 	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|  FreeMCServer 	|  ? 	| ?  	|   AMD Epyc 7502P or Ryzen 5	|  NA, EU 	|   ✖	|  ✔ 	|  Custom	|  4.2$/m 	|  No	|
+|  Fluctis 	|  ? 	|  HDD SSD 	|  ? 	|  NA, EU 	|   ✖ 	|  ✔ 	| Custom 	|  3$/m 7$/m 	| No 	|
+|  Fragnet 	|   DDR3 or DDR4	|  SSD or NVMe 	| Intel Xeon E-2288G  	| NA, SA, EU, AS, OC  	|  ✖ 	|   ✔	|  Custom	|  5$/m 	| No 	|
+|   MC Pro Hosting	|   DDR4	|  SSD 	| Intel Xeon E5-2600  	|   NA, EU, SA, AS, OC	|  ✖	|   ?	|  Custom	|   6$/m	|  Yes (slots)	|
+|  Sparked 	| DDR4  | SSD NVMe NVMe	|  E5-2697v3 Ryzen 5 5600X Ryzen 9 5900X 	|   NA, EU, OC, AS	|  ✖ 	|   ✔	|   Pterodactyl	| 1$/m 2$/m 4$/m 	|   No	|
+|  HeavyNode 	|  DDR4 	| SSD SSD NVMe  	|  i7-6700K i7-7700K Ryzen 9 5900X 	|   NA, EU, OC, AS	|   ✖	|   ✔	| Pterodactyl 	|  1$/m 2.4$/m 2.75$/m 	|  No	|
+|  SkyNode 	| ?  	|   NVMe	|  ? 	|  NA, EU, AS, OC 	| ✖  	|  ? 	|  Pterodactyl	| 2.5$/m  	| No 	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
