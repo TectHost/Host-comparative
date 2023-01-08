@@ -22,9 +22,9 @@
 |  RetlyHosting 	|   DDR4	|   ?	| i9-9900K  	|  EU 	|  ✖ 	|   ✔	| Pterodactyl 	|  1.5$/m 	| No 	|
 |   Kiaura	|  ? 	|   NVMe	|  Ryzen 5 3600X 	|  EU 	| ✔  	|   ?	| Multicraft 	|  2$/m 	|  Yes (slots)	|
 |   OMG Serv	| ?  	|   SSD	|   Intel Xeon E5-2670	|   EU, NA	|  ✖ 	|   ✔	|  Custom	|  1.5$/m 	| Yes (slots) 	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|  PebbleHost	|   DDR4	|  SSD NVMe 	|   Intel Xeon E5-1630v3 Ryzen  7 5800X	|   EU, NA, OC	|   ✖	|   ✔	|  Custom	|   	1$/m 3.4$/m |  No	|
+|  ScalaHosting 	|  ? 	|   NVMe	|   ?	|  NA, AS, EU, OC 	|   ✔	|  ✔ 	| sPanel 	|   	15.5$/m | No 	|
+|  GGServers 	|   DDR4	|   SSD NVMe	| 4 GHz  	|   NA, EU, AS, OC	|   ✖	| ✖  ✔	| Multicraft 	| 3$/m 6$/m  	| Yes (slots) 	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
