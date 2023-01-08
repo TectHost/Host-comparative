@@ -48,16 +48,16 @@
 |   ReisHost	| DDR4  	|   SSD	|  Xeon E5-2650v2 	|   NA, EU 	|   ✖	| ?  	|  Pterodactyl	|   1$/m	| No 	|
 |  MineHost 	|   DDR4	|   SSD	| ?  	|  SA 	|  ✖ 	|   ?	| ? 	|  3$/m 	| Yes (slots) 	|
 |   PurpleHosting	| ? 	|  SSD 	|   Ryzen 7	|   SA	|   ✔	|   ✔	|  ?	|   1$/m	| No 	|
-|  AgilaHost 	|   ?	|  NVMe 	|  Xeon E-2276G 	|   EU	|   ✖	|   ✔	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|  AgilaHost 	|   ?	|  NVMe 	|  Xeon E-2276G 	|   EU	|   ✖	|   ✔	| ? 	|  2.7$/m 	|  No	|
+|  Nodecraft 	|  ? 	|  SSD 	|  ? 	|   EU, AS	|   ✖	|  ? 	|  Multicraft	|  4.5$/m 	|  No	|
+|  GTX Gaming 	|   ?	|  SSD 	|  Xeon E3, i7 or i9 	| ?  	|   ✖	|  ? 	| ? 	|   4.5$/m	| No 	|
+|   PloxHost	|   DDR3 DDR4	|  SSD NVMe 	|  Xeon E5-2690 Ryzen 7 3800X 	|   NA, EU	|  ✖ 	|  ? 	| Pterodactyl 	|  1.5$/m 4$/m 	| No 	|
+|   Spartan Host	|  ? 	|   HDD	|  ? 	|  NA, EU 	|  ✖ 	|  ✔ 	|  Multicraft	| 5$/m  	|   No	|
+|  Game Hosting 	|  ? 	|  SSD 	|  Intel Xeon 	|  NA, EU 	|  ✖ 	|   ?	| ? 	|  6$/m 	|  No	|
+|   Snow Node	| DDR4  	|   NVMe	|   i7-6700K or Xeon E3	|  NA, AS, EU, OC 	|  ✖  	|   ?	| ? 	| 2.5$/m  	|  No	|
+|  Instant Host 	|  ? 	|   SSD NVMe	|   2 GHz 4 GHz	|   NA, EU	|   ?	|   ?	|  	|   2.5$/m	|  No	|
+| LemeHost  	|  ? 	|   SSD	| ?  	|   NA, EU	|   ✖	|  ? 	|  ?	| 2$/m  	| No 	|
+|   VibeGames	|   DDR4	|  NVMe 	|   Ryzen 9 5950X	|   NA, AS, EU, OC	|   ✖	|   ?	| ? 	| 3$/m  	| No 	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
