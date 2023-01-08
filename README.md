@@ -40,15 +40,15 @@
 |  RedFoxCloud 	|   DDR4	|  NVMe 	|  Ryzen 9 5950X 	|   EU	|  ✖ 	| ✔  	| ? 	| 30$/m  	|  No	|
 |   RAM Shard	|   ?	|   NVMe	| ? 	|  NA, EU, AS, OC 	|   ✖	| ✔  	| Multicraft 	|   4$/m	| No 	|
 |  Exaroton 	|   DDR4	|  SSD 	|  AMD Epyc 7F72 	|   ?	| ✖  	|  ? 	| Custom 	|   7.2$/m	|  No	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+| Olimpo Hosting  	|  ? 	|   SSD	|   ?	|  ? 	|  ✖ 	|  ✔ 	|  ?	|  2.5$/m 	| No 	|
+|   HostHavoc	|   ?	|   NVMe	| Xeon E-2100  	|   NA, EU, OC	|   ✖	| ?  	| Multicraft 	|   5$/m	| No 	|
+|  CheeseHosting 	|   ?	|  SSD 	|   Ryzen 5900X or Xeon	|   EU	|    ✖	|  ✔ 	|  Custom	|  3.25$/m  	|  No	|
+|   MC-node	|   DDR4	|  SSD NVMe 	|  Xeon E5-1650v3 i9-9900K 	|   ?	|   ✖	|   ?	| Pterodactyl 	|   1.2$/m 2.5$/m	| No 	|
+|  ServerFlex 	| DDR4  	|  NVMe 	|   Ryzen 7	|   ?	| ✖  	|  ? 	|  ?	|  3.5$/m 	|  No	|
+|   ReisHost	| DDR4  	|   SSD	|  Xeon E5-2650v2 	|   NA, EU 	|   ✖	| ?  	|  Pterodactyl	|   1$/m	| No 	|
+|  MineHost 	|   DDR4	|   SSD	| ?  	|  SA 	|  ✖ 	|   ?	| ? 	|  3$/m 	| Yes (slots) 	|
+|   PurpleHosting	| ? 	|  SSD 	|   Ryzen 7	|   SA	|   ✔	|   ✔	|  ?	|   1$/m	| No 	|
+|  AgilaHost 	|   ?	|  NVMe 	|  Xeon E-2276G 	|   EU	|   ✖	|   ✔	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
