@@ -95,10 +95,10 @@
 |   Pixelnest	|   ?	|   ?	|   ?	|   NA, EU	|   ✖	|  ? 	|  	?|  2.5$/m 	| No 	|
 |  Galactiq.net 	| DDR4  	|   ?	|   ?	|   NA, EU	|   ✔	|   ?	|  Pterodactyl	|   3.9$/m	| No 	|
 |  SpringRacks 	| DDR4 (NA) DDR5 (EU)|   NVMe	|  Ryzen 7 5800X (NA) Ryzen 9 7950X (EU) 	|   NA, EU	|    ✖ 	|  ✔  	| ?  	| 2.5$/m 6$/m 	|  No 	|
-|  Byte Hosting 	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|  Byte Hosting 	|   ?	|  NVMe	|  Ryzen 5600G 	|   EU	|   ✖		| ?  	| ? 	|  1.2$/m 	|No  	|
+|  Unreach 	|  ? 	|   ?	| ?  	|   ?	|  ✖ 	|  ? 	|  Pterodactyl	|   1$/m	|  No	|
+|  Venox Hosting 	|   ?	|   SSD	| ?  	|   ?	|  ✖ 	|   ✔	| ? 	| 1$/m  	| No 	|
+|   Fryxel	|   ?	| SSD  	| AMD  	|  NA, EU, SA 	|   ✖	|   	✔|  ?	| 1.5$/m  	|  No	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
