@@ -73,13 +73,13 @@
 | Minecraft worlds 	|  DDR4 	|  NVMe 	|  Ryzen 3900X 	|   NA, EU	|   ✖ 	| ?  	|  Custom	|   3$/m	|  No	|
 |   PluxHost	|   ?	|   ?	|  ? 	|  NA, EU 	|  ✔ 	|  ?	|  ?	|  3$/m 	| No 	|
 |  Cube 	|  ? 	|   SSD NVMe	| Epyc 7282 i9-9900K  	| NA 	|  ✖ 	|   ✔	| Pterodactyl 	|  2$/m 2.5$/m 	| No 	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   Evolution Host	|  ? 	| SSD  	|   ?	|   NA, EU	|   ✖	|   ✔	| ? 	| 3$/m  	|  No	|
+|  Enxada Host 	|   ?	|  ? 	|   ?	|   	SA|   ✖	|   ?	| ? 	|  4.3$/m 	| No 	|
+| Whost  	|   ?	|   NVMe	|  ? 	|  NA, EU 	|  ✖ 	|   ?	|  Pterodactyl	|   	2$/m|  No|
+|  DeltaHost 	|  DDR4 	|  NVMe 	|   Ryzen 9 5900X or Ryzen 9 5950X	| NA  	|  ✔  	|    ✔	|  DeltaHost Panel	| 1.9$/m  	| No 	|
+| Teramont  	|  DDR4 	|   NVMe	|  Ryzen 3950X 	|  NA 	|  ✔ 	|  ✔ 	|  Pterodactyl	|   2$/m	|  No	|
+|  Mc4U	|   ?	|   ?	|  ? 	|  EU 	|   ✖	|    ✔	|  Pterodactyl	| 1$/m  	| No 	|
+|   GameHost.io	| DDR4  	| SSD  	| ?  	|  ? 	|   ✖	|  ✔ 	| ? 	| 2.6$/m  	|No  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
