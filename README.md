@@ -80,6 +80,61 @@
 | Teramont  	|  DDR4 	|   NVMe	|  Ryzen 3950X 	|  NA 	|  ✔ 	|  ✔ 	|  Pterodactyl	|   2$/m	|  No	|
 |  Mc4U	|   ?	|   ?	|  ? 	|  EU 	|   ✖	|    ✔	|  Pterodactyl	| 1$/m  	| No 	|
 |   GameHost.io	| DDR4  	| SSD  	| ?  	|  ? 	|   ✖	|  ✔ 	| ? 	| 2.6$/m  	|No  	|
+|   Redline	|  DDR4 	|  NVMe 	|   Ryzen 3600X or 5600X	|  NA, EU 	|  ✖ 	|  ✔ 	|  ?|  1.25$/m	|  No	|
+|   Space Hosting	|  DDR4 	| SSD  	|  Ryzen 9 5950X 	|   EU	|  ✖ 	|  ✔  	| ? 	|  1$/m 	|  No	|
+|   Prisma Nodes	|   DDR4	|  NVMe 	|  i9-9900K Ryzen 9 5950X 	| EU  	|  ✖ 	|  ✔ 	|  Pterodactyl	|   1.5$/m 2.5$/m	|  No	|
+|  ColdShard 	|  ? 	|   	?|  Ryzen 5900X 	|   ?	|✖   	|  ✔ 	| ? 	|  0.9$/m 	|  No	|
+|  ViperHost 	|   DDR4	|  NVMe	|   ?	|   	NA, EU|  ✖ 	|  ? 	| ?	|   1.2$/m	| No 	|
+|  zap-hosting 	| DDR3 or 4  	|   SSD	|   2.0-3.4 GHz	| EU, NA, OC, AS  	|  ✖ 	|   ?	|  ?	|  2.5$/m 	|  Yes (slots)	|
+|   Glass Host	|   DDR4	| NVMe  	|  Ryzen 5 3600 	| EU 	|   ✖	|  ? 	| Pterodactyl 	|   1.75$/m	|  No	|
+|   Stozu	|  ? 	|   ?	|   AMD Epyc 7282	|  EU 	|  ✖	 	| ✔  	|  ?	|   1.9$/m	| No 	|
+|   Stella Node	|  DDR4 	|   SSD NVMe	|  Xeon E5-1630v3 Ryzen 7 5800X 	|  EU NA, EU 	|  ✖ 	|   ✔ 	| Pterodactyl 	|  1$/m 2$/m 	| No 	|
+|  Vyxter Host 	|   DDR4	|  NVMe 	| Ryzen 5 5600X  	|   NA	|   ✖	|  ✔ 	| Pterodactyl 	|  1.3$/m 	|  No	|
+|   Serverhost.games	|   ?	|   SSD	|  ? 	|   ?	|   ✖	|  ? 	| Custom 	| 2.5$/m 	| No 	|
+|  Revive Node 	|   DDR4	|   ?	| i7-6700K Ryzen 7 3800X  	|  NA, EU, AS 	|   ✖|  ✔  	| Pterodactyl 	| 1$/m 3$/m  	|No  	|
+|   Pixelnest	|   ?	|   ?	|   ?	|   NA, EU	|   ✖	|  ? 	|  	?|  2.5$/m 	| No 	|
+|  Galactiq.net 	| DDR4  	|   ?	|   ?	|   NA, EU	|   ✔	|   ?	|  Pterodactyl	|   3.9$/m	| No 	|
+|  SpringRacks 	| DDR4 (NA) DDR5 (EU)|   NVMe	|  Ryzen 7 5800X (NA) Ryzen 9 7950X (EU) 	|   NA, EU	|    ✖ 	|  ✔  	| ?  	| 2.5$/m 6$/m 	|  No 	|
+|  Byte Hosting 	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
