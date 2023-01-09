@@ -58,21 +58,21 @@
 |  Instant Host 	|  ? 	|   SSD NVMe	|   2 GHz 4 GHz	|   NA, EU	|   ?	|   ?	|  	|   2.5$/m	|  No	|
 | LemeHost  	|  ? 	|   SSD	| ?  	|   NA, EU	|   ✖	|  ? 	|  ?	| 2$/m  	| No 	|
 |   VibeGames	|   DDR4	|  NVMe 	|   Ryzen 9 5950X	|   NA, AS, EU, OC	|   ✖	|   ?	| ? 	| 3$/m  	| No 	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   Game Server Supply	|   ?	|  NVMe 	|  ? 	|   NA, EU, OC	|   ✖	|  ? 	|  Pterodactyl	| 2$/m  	| No 	|
+| GameHost.cl  	| ? 	|   NVMe	|   ?	|  SA 	|  ✖ 	|  ? 	| ? 	| 5$/m  	|  No	|
+|  HostWinds 	| ?  	|  SSD 	|   ?	|  ? 	|   ✖	|   ?	| McMyAdmin 	| 5$/m  	|  No	|
+|   SeekaHost	| ?  	|   NVMe	|   4.5 GHz	|  NA, EU 	|   ✖ 	|   ?	|  Multicraft	| 2.5$/m 	|  Yes (slots)	|
+|  SlimeServers 	|   DDR4	|  SSD 	|   i7-7600K	| NA, EU  	|   ✖	|     ✔	| Multicraft	|   2.5$/m	| No 	|
+|   Server Miner	|  ? 	|  ? 	|  ? 	|   NA, EU, OC, AS	|   ✖	|   ✔	| Multicraft 	|  5$/m 	|  Yes (slots)	|
+|  Sticky Piston 	|   ?	|  ? 	|   ?	|  NA, EU, OC, AS 	|   ✖	|   ?	|  ?	|   6$/m	| No 	|
+|   G-portal	| ?  	|   ?	| ? 	|   NA, EU, OC, AS, SA, AF	|   ✖	|  ✔ 	| ? 	| 1.5$/m  	|  No	|
+|   Aquatis	|  DDR3 DDR4 	|  SSD NVMe 	|  Xeon E5-2600 i9-9900K 	|   NA, EU	| ✖  	|  ? 	| Multicraft 	| 1.5$/m 3$/m  	|  No	|
+|   Clovux	|   DDR4	|   NVMe	|  i7-7700K 	| NA, EU  	|  ✖ 	|   ✖	| Multicraft 	|  2$/m 	|  No	|
+|  MTX Serv 	|  ? 	|  NVMe 	|   Ryzen 5800X	|  NA, EU 	|   ✖	|  ✔ 	|  Pterodactyl	|  1.6$/m 	| No 	|
+|  Stipe 	|  ? 	|   ?	|   Ryzen 9 5950X or Epyc 7443P	|  OC 	|  ✖ 	|   ?	| Multicraft 	|   7$/m	|  No	|
+| Minecraft worlds 	|  DDR4 	|  NVMe 	|  Ryzen 3900X 	|   NA, EU	|   ✖ 	| ?  	|  Custom	|   3$/m	|  No	|
+|   PluxHost	|   ?	|   ?	|  ? 	|  NA, EU 	|  ✔ 	|  ?	|  ?	|  3$/m 	| No 	|
+|  Cube 	|  ? 	|   SSD NVMe	| Epyc 7282 i9-9900K  	| NA 	|  ✖ 	|   ✔	| Pterodactyl 	|  2$/m 2.5$/m 	| No 	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
