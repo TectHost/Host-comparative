@@ -99,16 +99,16 @@
 |  Unreach 	|  ? 	|   ?	| ?  	|   ?	|  ✖ 	|  ? 	|  Pterodactyl	|   1$/m	|  No	|
 |  Venox Hosting 	|   ?	|   SSD	| ?  	|   ?	|  ✖ 	|   ✔	| ? 	| 1$/m  	| No 	|
 |   Fryxel	|   ?	| SSD  	| AMD  	|  NA, EU, SA 	|   ✖	|   	✔|  ?	| 1.5$/m  	|  No	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   Pluto Servers	|   DDR4	|  ? 	|  Xeon E5-2660v3 i9-9900K 	|  NA 	|    ✖	 	| ?  	|  ?	|  1$/m 1.25$/m 	|  No	|
+| Noxxer  	|  DDR4 	|   SSD	|  Ryzen 5950X 	|   ?	| ✖  	|   ?	| Pterodactyl 	|   2.2$/m	|  No	|
+|  Aspect Hosting 	|  ? 	|   ?	|   ?	|  ? 	|  ✖ 	|   ✔|  ?	|   2.3$/m	| No 	|
+|   Fade Host	|   	?|   ?	| Ryzen or Xeon  	|  ? 	|   ✖	|  ? 	| Pterodactyl 	|   3$/m	|  No	|
+|   Lade Hosting	|  DDR4 	|  NVMe 	| Ryzen 5 3600  	|  ? 	|   ✖	|  ? 	| ? 	|  1.5$/m 	|  	No|
+|  Warden Hosting 	|   ?	|   NVMe	| Ryzen 5800X or Ryzen 5700X  	| NA, EU  	|   	✖	|   ?	| ? 	|  1.5$/m 	|  No	|
+|   Humble Servers	|   ?	|  NVMe 	|   Ryzen 3600 Ryzen 5800X Ryzen 5950X	| NA, EU  	|  ✖ ✖ ✔ 	|   ✔	|  Pterodactyl	|  0.85$/m 2$/m 2.75$/m 	| No 	|
+|   Demon bolt Host	|  ? 	|  ? 	| i7-6700K  	|   NA, EU	|  ✖ 	|   	✔|  Pterodactyl	|  1.25$/m 	| No 	|
+|   Extra VM	| DDR4  	|  NVMe 	|   i9-9900K	|   NA, EU, AS, OC	|   ✖ 	|   ?	|  Multicraft	|  3$/m 	|  No	|
+|  DemonHosts.com 	| DDR4  	|  SSD 	|  Xeon E3-1245v3 Ryzen 7 5800X 	|   ? NA	|   ✖	|  ✔ 	| ? 	|  1.3$/m 2.25$/m 	| No 	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
