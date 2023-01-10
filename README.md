@@ -109,18 +109,18 @@
 |   Demon bolt Host	|  ? 	|  ? 	| i7-6700K  	|   NA, EU	|  ✖ 	|   	✔|  Pterodactyl	|  1.25$/m 	| No 	|
 |   Extra VM	| DDR4  	|  NVMe 	|   i9-9900K	|   NA, EU, AS, OC	|   ✖ 	|   ?	|  Multicraft	|  3$/m 	|  No	|
 |  DemonHosts.com 	| DDR4  	|  SSD 	|  Xeon E3-1245v3 Ryzen 7 5800X 	|   ? NA	|   ✖	|  ✔ 	| ? 	|  1.3$/m 2.25$/m 	| No 	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|  Nitrado 	|   ?	|   ?	|  ? 	|  NA, EU, SA, AS, OC 	|  ✖ 	|   ?	| ? 	| 3$/m 	| No 	|
+| Tempest Hosting  	|   ?	|  ? 	|   Ryzen 5950X	|  NA, EU, AS 	| ✖  	|  ? 	| ? 	| 5$/m  	| No	|
+|  INA Networks 	|  DDR4 	|  SSD 	|  3.8 GHz 	|   NA, EU, SA	|   ✖	|   ✔	| ? 	|   5.1$/m	| No 	|
+|  Holy Nodes 	|  DDR4 	|   SSD	|   Xeon E5-1650v3	|  ? 	|  ✖ 	|   ?	| ? 	|   0.85$/m	|  No	|
+|  HostEZ.io 	| ? 	|  SSD or NVMe 	|   AMD Ryzen 3.5 GHz	|  ? 	|   ✖ 	|  ✔ 	| ? 	|   7.5$/m	|  No	|
+|  Xurver 	|   	?|  NVMe 	| ?  	|  ? 	|  ✖ 	|  ? 	|  Pterodactyl	|  2$/m 	|  No	|
+|   Fallout Hosting	|   ?	|  ? 	|   ?	| NA, EU  	|  ✖ 	|  ✔ 	|  Multicraft	|   1.5$/m	|  No	|
+|  Nexus Node 	|   ?	|   	NVMe|   ?	|   NA, EU	|   ✖	|   ?	| Pterodactyl 	|   1.5$/m	| No 	|
+|  Cubes host 	|  ? 	| SSD  	|  Intel Xeon 	|  ? 	|   ✖		|   ✔	|  Pterodactyl	|   1.5$/m	| No 	|
+|   HostingMinecraft.eu	| DDR4  	|   NVMe	|   ?	|   ?	|   ✖	|   ✔	|  ?	|  1.1$/m 	| No 	|
+| HostingMinecraft.pro  	|   	?|  NVMe	|AMD Ryzen 5 3600   	|   ?	|   ✖	|  ? 	|  ?	|   0.7$/m	| No 	|
+|  Wired Host 	|  ? 	|  ? 	|   ?	|   EU	|   ✖	|  ? 	|  ?	|  3$/m 	|  No	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
