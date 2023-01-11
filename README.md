@@ -121,16 +121,16 @@
 |   HostingMinecraft.eu	| DDR4  	|   NVMe	|   ?	|   ?	|   ✖	|   ✔	|  ?	|  1.1$/m 	| No 	|
 | HostingMinecraft.pro  	|   	?|  NVMe	|AMD Ryzen 5 3600   	|   ?	|   ✖	|  ? 	|  ?	|   0.7$/m	| No 	|
 |  Wired Host 	|  ? 	|  ? 	|   ?	|   EU	|   ✖	|  ? 	|  ?	|  3$/m 	|  No	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   Oddblox	|   ?	|   NVMe	|  Ryzen 7 or Xeon 	|  NA, EU 	|   ✖	|   ?	|  Multicraft	|  1.25$/m 	| Yes (slots) 	|
+|  SpaceNode.online 	|DDR4 	|   NVMe	|  ? 	| NA  	|   ✖	|   ?	| Pterodactyl 	| 1$/m 1.25$/m  	| No 	|
+|   Rocket Node	|   ?	|  NVMe 	|  Xeon E5-2666v3 Ryzen 5800X 	|  NA, EU 	|  ✖ 	|   ?	| Pterodactyl 	| 1$/m 2.2$/m  	| No 	|
+|   Private-Hosting.eu	|  ? 	|   ?	|   ?	|  EU 	|   ✖	|   ✔	| Pterodactyl 	| 1.1$/m  	|  	No|
+|  Sierra Node 	|   DDR4	|  NVMe 	|   i7-8700	|   EU	|  ✖ 	|  ✔ 	| Pterodactyl 	|  0.7$/m 	| No	|
+|  Creeper.pl 	| ?  	|  NVMe 	|  ? 	|   ?	|   ✖ 	| ?  	| ? 	|   1.7$/m	|  No	|
+|   Cake Hosting	|  ? 	|   SSD	|  AMD Ryzen 	|  EU 	|✖    	|  ✔ 	| Multicraft 	|  4$/m 	|  No	|
+|   Berry Byte	|   ?	|   NVMe	|  Ryzen 3900X Ryzen 5950X Ryzen 7950X 	| NA, EU  	|  ✔  	| ✔  	| ? 	|  2.5$/m 2.75$/m 4$/m 	|  No	|
+|  Platinum Host 	|  DDR4 	|  SSD 	|  Ryzen 5 3600X or Intel Xeon E5-1630v3 	|  EU, NA 	|  ✖ 	| ✔ 	|Pterodactyl  	| 1$/m  	|  No	|
+|   Birdflop	|  ? 	|  NVMe 	|  Ryzen 9 3900 	| NA, EU 	|   ✖	|   ?	| Pterodactyl	| 2$/m (EU) 3$/m (NA)  	| No  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
