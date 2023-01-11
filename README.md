@@ -131,17 +131,10 @@
 |   Berry Byte	|   ?	|   NVMe	|  Ryzen 3900X Ryzen 5950X Ryzen 7950X 	| NA, EU  	|  ✔  	| ✔  	| ? 	|  2.5$/m 2.75$/m 4$/m 	|  No	|
 |  Platinum Host 	|  DDR4 	|  SSD 	|  Ryzen 5 3600X or Intel Xeon E5-1630v3 	|  EU, NA 	|  ✖ 	| ✔ 	|Pterodactyl  	| 1$/m  	|  No	|
 |   Birdflop	|  ? 	|  NVMe 	|  Ryzen 9 3900 	| NA, EU 	|   ✖	|   ?	| Pterodactyl	| 2$/m (EU) 3$/m (NA)  	| No  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-|   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+|   Vexy Host	|  ? 	|  NVMe 	|  ? 	|  NA, SA 	|   ✖	|  ✔ 	| Pterodactyl 	| 2$/m  	|  No	|
+|   Nasa Nodes	|   DDR4	|   NVMe	|  Ryzen 7 3800X 	|   NA	|  ✔ 	|  ✔ 	|  Pterodactyl	|  1.9$/m 	|  No	|
+|  MeenHost 	|   ?	|   ?	|   ?	| EU  	|  ✖ 	|   ✖	| Pterodactyl 	| 0.9$/m  	|No  	|
+|  GrootOP 	| ?  	|  SSD 	|  ? 	|   ?	|   ?	|   ✔ 	| ? 	|   0.5$/m	|  No	|
+|  Ignition Host 	|   DDR4	|  NVMe 	|  ? 	| ?  	|  ✖ 	| ? 	| ? 	|  0.6$/m 	|  	No|
+|  Meteor Cloud 	|   ?	|   SSD	|  ? 	| ?  	|   ✖	|  ✔ 	| Pterodactyl 	|   0.8$/m	|  No	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
