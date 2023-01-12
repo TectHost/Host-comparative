@@ -137,4 +137,5 @@
 |  GrootOP 	| ?  	|  SSD 	|  ? 	|   ?	|   ?	|   ✔ 	| ? 	|   0.5$/m	|  No	|
 |  Ignition Host 	|   DDR4	|  NVMe 	|  ? 	| ?  	|  ✖ 	| ? 	| ? 	|  0.6$/m 	|  	No|
 |  Meteor Cloud 	|   ?	|   SSD	|  ? 	| ?  	|   ✖	|  ✔ 	| Pterodactyl 	|   0.8$/m	|  No	|
+|  AsiusNodes 	|   DDR4	|  NVMe 	| Ryzen 5 5600X  	| NA  	|   ✖	|   ✔	| Pterodactyl 	|  1.5$/m 	|  	No|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
