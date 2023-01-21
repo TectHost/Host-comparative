@@ -143,3 +143,4 @@
 | Silver Hosting Network  	|  ? 	|  SSD or NVMe 	|  ? 	|NA   	|   ✖	|   ?	| ? 	|  4$/m 	| No 	|
 |  Zematic Hosting 	|  ? 	|?  	|  ? 	|   ?	|   ✖ 	| ✔  	| ? 	|  0.7$/m 	|  No	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
+
