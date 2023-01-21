@@ -139,4 +139,5 @@
 |  Meteor Cloud 	|   ?	|   SSD	|  ? 	| ?  	|   ✖	|  ✔ 	| Pterodactyl 	|   0.8$/m	|  No	|
 |  AsiusNodes 	|   DDR4	|  NVMe 	| Ryzen 5 5600X  	| NA  	|   ✖	|   ✔	| Pterodactyl 	|  1.5$/m 	|  	No|
 | RealisticNode  	|   DDR4	|   NVMe	|  Xeon E5-2630v2 Ryzen 5900X  Ryzen 5950X	|   NA	|  ✖ 	|   ✔	| Pterodactyl 	|  1$/m 2.5$/m 3.5$/m	|  No	|
+|   Hydra-Hosting	|  DDR4 	|   ?	|   5 GHz	| EU 	|  ✖ 	|  ? 	|  ?	|   1.5$/m	| No 	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
