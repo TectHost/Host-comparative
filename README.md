@@ -12,7 +12,7 @@
 |  McHostingPro 	|   DDR4	| NVMe  	|  Ryzen 3900X 	|   NA, EU, OC	|  ✖ 	|  ? 	|  Custom 	|   2.25$/m	| No  	|
 | ScalaCube  	| ?  	|  SSD 	|  3.4 GHz 	|  NA, EU, OC 	|   ✖	|   ?	|  Custom 	|   6$/m	|  Yes (slots) 	|
 | WinterNode  	| DDR4  	| NVMe  	| i9 or Ryzen 7  	|   NA, EU	|  ✖ 	|   ✔	|  Pterodactyl 	|   2$/m	|  No 	|
-|  Bloom 	|   DDR4	|   NVMe	|  Ryzen 9 3900X Ryzen 9 3950X Ryzen 9 5950X 	|  NA, EU, AS 	|   ✖	|   ✔	|   Pterodactyl	| 2.5$/m 2.25$/m 3$/m  	| No  	|
+|  hym 	|   DDR4	|   NVMe	|  Ryzen 9 3900X Ryzen 9 3950X Ryzen 9 5950X 	|  NA, EU, AS 	|   ✖	|   ✔	|   Pterodactyl	| 2.5$/m 2.25$/m 3$/m  	| No  	|
 |  FalixNodes 	|  ? 	|   ?	|   Ryzen 9 5950X	|   EU	|  ✖ 	|   ✔	|  Pterodactyl 	| 1.5$/m  	|   Yes (slots)	|
 |   G-portal	|   ?	|  ? 	|   ?	|   EU, NA, AS, OC, SA, AF	|   ✖	|  ✔ 	| ? 	| 1.9$/m  	|  No 	|
 |  Hostinger 	|  ? 	|   SSD	|   Intel Xeon	|   NA, EU, AS, SA	|  ✖ 	|  ? 	|  ?	|  11.75$/m 	| Yes (slots) 	|
@@ -140,4 +140,6 @@
 |  AsiusNodes 	|   DDR4	|  NVMe 	| Ryzen 5 5600X  	| NA  	|   ✖	|   ✔	| Pterodactyl 	|  1.5$/m 	|  	No|
 | RealisticNode  	|   DDR4	|   NVMe	|  Xeon E5-2630v2 Ryzen 5900X  Ryzen 5950X	|   NA	|  ✖ 	|   ✔	| Pterodactyl 	|  1$/m 2.5$/m 3.5$/m	|  No	|
 |   Hydra-Hosting	|  DDR4 	|   ?	|   5 GHz	| EU 	|  ✖ 	|  ? 	|  ?	|   1.5$/m	| No 	|
+| Silver Hosting Network  	|  ? 	|  SSD or NVMe 	|  ? 	|NA   	|   ✖	|   ?	| ? 	|  4$/m 	| No 	|
+|  Zematic Hosting 	|  ? 	|?  	|  ? 	|   ?	|   ✖ 	| ✔  	| ? 	|  0.7$/m 	|  No	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
