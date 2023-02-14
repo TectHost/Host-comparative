@@ -142,5 +142,8 @@
 |   Hydra-Hosting	|  DDR4 	|   ?	|   5 GHz	| EU 	|  ✖ 	|  ? 	|  ?	|   1.5$/m	| No 	|
 | Silver Hosting Network  	|  ? 	|  SSD or NVMe 	|  ? 	|NA   	|   ✖	|   ?	| ? 	|  4$/m 	| No 	|
 |  Zematic Hosting 	|  ? 	|?  	|  ? 	|   ?	|   ✖ 	| ✔  	| ? 	|  0.7$/m 	|  No	|
+|  Nexo host 	|  DDR4 	|   SSD	|   Xeon E5-2690	|  NA 	|  ✖ 	|  ? 	| Pterodactyl 	|   1$/m	| No 	|
+|   Logic Host	|  ? 	|   SSD	|   ?	|   SA	|   ✖	|   ✔	|  	?|   1.35$/m	| No 	|
+|   ClankyHosting	|  ? 	|  ? 	|   Xeon E5-2690	|   NA	|   ✖	|   ✔	|  Pterodactyl	|  1.3$/m 	| No 	|
+|   Mc-Host24	|   ?	|  SSD/NVMe 	|   ?	|   EU	|   ✖	|   	?| Multicraft 	|  3$/m 	|  No	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
-
