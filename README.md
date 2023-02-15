@@ -146,4 +146,5 @@
 |   Logic Host	|  ? 	|   SSD	|   ?	|   SA	|   ✖	|   ✔	|  	?|   1.35$/m	| No 	|
 |   ClankyHosting	|  ? 	|  ? 	|   Xeon E5-2690	|   NA	|   ✖	|   ✔	|  Pterodactyl	|  1.3$/m 	| No 	|
 |   Mc-Host24	|   ?	|  SSD/NVMe 	|   ?	|   EU	|   ✖	|   	?| Multicraft 	|  3$/m 	|  No	|
+|  Nightway Hosting 	|   ?	| SSD 	|   ?	|   NA, EU, AS	|  ✖ 	|   ✔	|  ?	|   2.5$/m	|  Yes (slots)	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
