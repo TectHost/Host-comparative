@@ -150,4 +150,6 @@
 |  InfinityNodes 	|   ?	|   ?	|   AMD Epyc 7742	|   ?	|   ✖	|  ✔ 	| Pterodactyl 	|  1$/m 	|  No	|
 |  Ethera Hosting 	|   ?	|   SSD	| Xeon E5-2698 v4  	|   NA	|  ✖ 	|  ✔ 	|  Pterodactyl	| 1$/m  	|  No	|
 |   Aezka Hosting	| DDR4  	| SSD  	| ?  	| ?  	|   ✖	|  ✔ 	| Pterodactyl 	|  0.85$/m 	|  No	|
+|  Rhoster 	|   ?	|  SSD 	|   ?	|  EU, SA 	|   ✖		|   ✖	|  ?	|  1$/m 	| No 	|
+|  Supercores 	|  DDR4 	|  ? 	| Intel Xeon E5-1630 v3  	|   ✖	| ✔  	|   ✔	| Pterodactyl 	|   1.3$/m	|  No	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
