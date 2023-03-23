@@ -152,4 +152,5 @@
 |   Aezka Hosting	| DDR4  	| SSD  	| ?  	| ?  	|   ✖	|  ✔ 	| Pterodactyl 	|  0.85$/m 	|  No	|
 |  Rhoster 	|   ?	|  SSD 	|   ?	|  EU, SA 	|   ✖		|   ✖	|  ?	|  1$/m 	| No 	|
 |  Supercores 	|  DDR4 	|  ? 	| Intel Xeon E5-1630 v3  	|   ?	| ✖  	|   ✔	| Pterodactyl 	|   1.3$/m	|  No	|
+|   Hask Hosting	|  ? 	|  NVMe 	|   Epyc 7282	| SA, NA  	|   ✖		|     ✔	| Pterodactyl 	| 1.13$/m  	|  No	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
