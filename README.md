@@ -154,4 +154,10 @@
 |  Supercores 	|  DDR4 	|  ? 	| Intel Xeon E5-1630 v3  	|   ?	| ✖  	|   ✔	| Pterodactyl 	|   1.3$/m	|  No	|
 |   Hask Hosting	|  ? 	|  NVMe 	|   Epyc 7282	| SA, NA  	|   ✖		|     ✔	| Pterodactyl 	| 1.13$/m  	|  No	|
 |   OverNodes	|  DDR4 	|  NVMe 	|  ? 	|   ?	|   ✖	|  ? 	| Pterodactyl 	|  1.15$/m 	| No 	|
+|   Strawber	| ?  	|   NVMe	|   Ryzen 7 5800X	|  NA 	|   ✖		| ?  	|  Custom	|  1.5$/m 	| No 	|
+|  Folium Hosting 	| ?  	|  NVMe 	|  ? 	|  EU 	|   ✖	|  ✔ 	|  Pterodactyl	|   1.25$/m	| No 	|
+|   EpicHost	| ?  	|   ?	|   ?	|   EU, NA	|   ✖	|  ✔  	| ? 	|   2.5$/m	| No 	|
+|   0x001 Host	| ?  	|  NVMe 	|   ?	|   EU, NA	| 	 ✖	| ✔  	| Pterodactyl 	|   1.85$/m	| No 	|
+|  Wyvern 	|   DDR4	|  NVMe 	|  ? 	|  EU, NA 	|   ✖	|   ✔	|  Pterodactyl	|  2.5$/m 	|  No	|
+|   Zealous Host	|  DDR4 	|   NVMe	|   Ryzen 5900X	|  NA, EU 	| ✖  	|  ✔ 	| Pterodactyl 	|  2.25$/m 	|  No	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
