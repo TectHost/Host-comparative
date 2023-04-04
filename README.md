@@ -161,4 +161,6 @@
 |  Wyvern 	|   DDR4	|  NVMe 	|  ? 	|  EU, NA 	|   ✖	|   ✔	|  Pterodactyl	|  2.5$/m 	|  No	|
 |   Zealous Host	|  DDR4 	|   NVMe	|   Ryzen 5900X	|  NA, EU 	| ✖  	|  ✔ 	| Pterodactyl 	|  2.25$/m 	|  No	|
 | OrbitNode  	|   DDR4	|   NVMe	| Ryzen 9 5950X 	|   EU	|   ✖	|   ?	|  Pterodactyl	|   2.25$/m	|  No	|
+|   Geode Host	|  DDR4 	|  NVMe 	|  Ryzen 5950X 	|  NA, EU 	|   ✔	|  ? 	|  Custom	|  2.5$/m 	|  No	|
+|   Nevonode	| ?  	|  SSD 	|   i9-9900K	|   NA, EU	|   ✖	|   ✖	|Pterodactyl  	|   2.2$/m	|No  	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
