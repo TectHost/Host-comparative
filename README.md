@@ -163,4 +163,7 @@
 | OrbitNode  	|   DDR4	|   NVMe	| Ryzen 9 5950X 	|   EU	|   ✖	|   ?	|  Pterodactyl	|   2.25$/m	|  No	|
 |   Geode Host	|  DDR4 	|  NVMe 	|  Ryzen 5950X 	|  NA, EU 	|   ✔	|  ? 	|  Custom	|  2.5$/m 	|  No	|
 |   Nevonode	| ?  	|  SSD 	|   i9-9900K	|   NA, EU	|   ✖	|   ✖	|Pterodactyl  	|   2.2$/m	|No  	|
+|   NetherHosting	|   ?	|  NVMe 	|   Ryzen 7 5800X	|   NA, AS	|   ✖	|   ?	| Pterodactyl 	|   0.91$/m	| No 	|
+|  Mc Mexico 	|  DDR4 	| NVMe  	| 3.5 GHz  	|  ? 	|   ✖	|   ✔	|  Pterodactyl	|  1.3$/m 	| No 	|
+|  Play24 	| ?  	|   ?	|  ? 	|   EU	|  ✖ 	|   ?	|  ?	|   2.49$/m	|  No	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
