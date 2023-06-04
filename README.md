@@ -166,4 +166,5 @@
 |   NetherHosting	|   ?	|  NVMe 	|   Ryzen 7 5800X	|   NA, AS	|   ✖	|   ?	| Pterodactyl 	|   0.91$/m	| No 	|
 |  Mc Mexico 	|  DDR4 	| NVMe  	| 3.5 GHz  	|  ? 	|   ✖	|   ✔	|  Pterodactyl	|  1.3$/m 	| No 	|
 |  Play24 	| ?  	|   ?	|  ? 	|   EU	|  ✖ 	|   ?	|  ?	|   2.49$/m	|  No	|
+|   CanarioHosting	|   ?	| NVMe  	|  Ryzen 7 5800X 	|   EU, NA	|  ✖	|   ?	| Pterodactyl 	|   2.5$/m	|  No	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
