@@ -167,4 +167,9 @@
 |  Mc Mexico 	|  DDR4 	| NVMe  	| 3.5 GHz  	|  ? 	|   ✖	|   ✔	|  Pterodactyl	|  1.3$/m 	| No 	|
 |  Play24 	| ?  	|   ?	|  ? 	|   EU	|  ✖ 	|   ?	|  ?	|   2.49$/m	|  No	|
 |   CanarioHosting	|   ?	| NVMe  	|  Ryzen 7 5800X 	|   EU, NA	|  ✖	|   ?	| Pterodactyl 	|   2.5$/m	|  No	|
+|   ServerBlend	|   ?	|   SSD	|   ?	| NA, EU  	|   ✖	|   ✔	|  Multicraft	|   3$/m	| No 	|
+|   LOW.MS	|   ?	|   SSD or NVMe	|   ?	|  EU, NA, AU, AS 	|   Optional	| ?  	|  Custom	|  3.5$/m 	|  No	|
+|   Bluefangsolutions	|   ?	|   ?	|  ? 	|   NA, EU, AS	| ✖  	|  ✔ 	| Custom 	|   5$/m	|  No	|
+| LodeHost  	|  DDR4 	|  NVMe 	|  Ryzen 5 3600 	|   NA, EU	|  ✖ 	|  ? 	|  Pterodactyl	| 1.5$/m  	| No 	|
+|  LogicServers 	|  ? 	|   ?	|   ?	| NA, EU, AS, SA  	|  ✔  	|  ? 	|  ?	| 3.25$/m 	| Yes (slots) 	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
