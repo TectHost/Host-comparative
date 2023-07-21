@@ -12,7 +12,7 @@
 |  McHostingPro 	|   DDR4	| NVMe  	|  Ryzen 3900X 	|   NA, EU, OC	|  ✖ 	|  ? 	|  Custom 	|   2.25$/m	| No  	|
 | ScalaCube  	| ?  	|  SSD 	|  3.4 GHz 	|  NA, EU, OC 	|   ✖	|   ?	|  Custom 	|   6$/m	|  Yes (slots) 	|
 | WinterNode  	| DDR4  	| NVMe  	| i9 or Ryzen 7  	|   NA, EU	|  ✖ 	|   ✔	|  Pterodactyl 	|   2$/m	|  No 	|
-|  hym 	|   DDR4	|   NVMe	|  Ryzen 9 3900X Ryzen 9 3950X Ryzen 9 5950X 	|  NA, EU, AS 	|   ✖	|   ✔	|   Pterodactyl	| 2.5$/m 2.25$/m 3$/m  	| No  	|
+|  Bloom 	|   DDR4	|   NVMe	|  Ryzen 9 3900X Ryzen 9 3950X Ryzen 9 5950X 	|  NA, EU, AS 	|   ✖	|   ✔	|   Pterodactyl	| 2.5$/m 2.25$/m 3$/m  	| No  	|
 |  FalixNodes 	|  ? 	|   ?	|   Ryzen 9 5950X	|   EU	|  ✖ 	|   ✔	|  Pterodactyl 	| 1.5$/m  	|   Yes (slots)	|
 |  Hostinger 	|  ? 	|   SSD	|   Intel Xeon	|   NA, EU, AS, SA	|  ✖ 	|  ? 	|  ?	|  11.75$/m 	| Yes (slots) 	|
 |  PapuHost 	|  DDR3 DDR4 	|   HDD NVMe	|   Intel Xeon E5-1620v2 i7-7700K	|  NA 	|   ✖	|  ✔ 	|  Pterodactyl	|   4$/m 4$/m	|  Yes (slots) No	|
@@ -171,4 +171,5 @@
 |   Bluefangsolutions	|   ?	|   ?	|  ? 	|   NA, EU, AS	| ✖  	|  ✔ 	| Custom 	|   5$/m	|  No	|
 | LodeHost  	|  DDR4 	|  NVMe 	|  Ryzen 5 3600 	|   NA, EU	|  ✖ 	|  ? 	|  Pterodactyl	| 1.5$/m  	| No 	|
 |  LogicServers 	|  ? 	|   ?	|   ?	| NA, EU, AS, SA  	|  ✔  	|  ? 	|  ?	| 3.25$/m 	| Yes (slots) 	|
+|   ThePixelHost	|  DDR4 	|  NVMe 	|   Ryzen 5600X Ryzen 3900X	|   NA	|  ✖ ✔	|   ?	| Pterodactyl 	|   1.8$/m 2$/m	| No 	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
