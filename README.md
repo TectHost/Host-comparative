@@ -172,4 +172,6 @@
 | LodeHost  	|  DDR4 	|  NVMe 	|  Ryzen 5 3600 	|   NA, EU	|  ✖ 	|  ? 	|  Pterodactyl	| 1.5$/m  	| No 	|
 |  LogicServers 	|  ? 	|   ?	|   ?	| NA, EU, AS, SA  	|  ✔  	|  ? 	|  ?	| 3.25$/m 	| Yes (slots) 	|
 |   ThePixelHost	|  DDR4 	|  NVMe 	|   Ryzen 5600X Ryzen 3900X	|   NA	|  ✖ ✔	|   ?	| Pterodactyl 	|   1.8$/m 2$/m	| No 	|
+| Code Cats  	|   ?	|   SSD	|   Ryzen 9, i9 or Epyc 7002	| EU  	|   ✖ 	|  ? 	|  Pterodactyl	|  1.3$/m 	|  No	|
+|  Host-Zentrum 	|  DDR4 	|   SSD or NVMe	|  ? 	|  EU 	|  ✖ 	|  ? 	| ? 	|  2.25$/m 	| No 	|
 |   	|   	|   	|   	|   	|   	|   	|  	|   	|  	|
