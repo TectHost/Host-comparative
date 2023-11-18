@@ -1,7 +1,7 @@
 # Host comparative
 |  Host 	| RAM type  	|  Disk type	|   Processor	|  Location 	|  Dedicated host 	| MySQL Free  	|   Panel	|  Price/gb 	|   Limits	|
 |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
-|   Tect.host	|  DDR4 	|   NVMe	|  AMD Epyc 7F32 	|  NA 	|   ✔	|  ✔ 	|   Pterodactyl	|   1.25$/m	|   No	|
+|   Tect.host	|  DDR4 	|   NVMe	|  AMD Epyc 7763 	|  NA 	|   ✔	|  ✔ 	|   Pterodactyl	|   1.25$/m	|   No	|
 |  TheMinecraftHosting 	|   DDR4	|   SSD	|  Intel Xeon 	|  NA, EU 	|  ✖ 	|   ?	|   Multicraft	|  2.5$/m 	|  No 	|
 |  ApexHosting 	| ?  	|  ? 	|  Ryzen 7 5800X or Ryzen 9 5900X 	|  NA, SA, EU, AS, OC 	|   ✖	| ✔  	|   Multicraft	|   5$/m	|  No 	|
 |   EasyminecraftHosting	|  DDR4 	|  SSD NVMe 	|   i7-6700K Intel 5.0 Ryzen 5.0	| NA, EU  	|  ✖ 	| ?  	| Multicraft  	|   1.5$/m 2.75$/m 3$/m	|  No 	|
